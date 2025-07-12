@@ -43,6 +43,6 @@
 
 ## 3. Sample Data Image
 ![a](image/covid.png)
-![a](image/covid_grouped.png)
+![a](image/covidgroup.png)
 ![a](image/coviddeath.png)
 
