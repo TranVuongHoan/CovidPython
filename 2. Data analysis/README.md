@@ -93,6 +93,8 @@ Sample data on individual COVID-19-related deaths and their comorbidities.
 | Q2 (Apr-Jun) | 9,986,824 | **+1063%** | 354,259 | **+741%** |
 | Q3 (Jul 1-27) | 5,712,939 | — | 258,442 | — |
 
+![Data](image/covid6.png)
+
 ---
 
 ## ⚰️ 5. Death Cause Analysis
@@ -109,6 +111,8 @@ Sample data on individual COVID-19-related deaths and their comorbidities.
 | No conditions reported | 21% |
 
 > ~80% of COVID-19 deaths involved at least one comorbidity.
+
+![Data](image/covid9.png)
 
 ---
 
@@ -139,6 +143,8 @@ Sample data on individual COVID-19-related deaths and their comorbidities.
 | Africa    | 1.2M        | 24,800       | 2.1     |
 
 > Europe had the highest CFR. Asia had the highest total cases due to India.
+
+![Data](image/covid19.png)
 
 ---
 
