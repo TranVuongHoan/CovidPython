@@ -139,3 +139,4 @@ The final report was designed in Power BI with the following key pages:
 - Europe had the highest CFR despite fewer per capita cases — healthcare system response and demographics may be influencing outcomes.
 
 ---
+![Data](image/covid18.png)
