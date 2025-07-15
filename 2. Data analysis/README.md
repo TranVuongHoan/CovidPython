@@ -70,6 +70,8 @@ Sample data on individual COVID-19-related deaths and their comorbidities.
 | Brazil  | 2,917,562   | 98,644       | 15M   |
 | India   | 2,025,409   | 41,042       | 23M   |
 
+![Data](image/covid2.png)
+
 ---
 
 ## 📈 4. Time-Series Trends
